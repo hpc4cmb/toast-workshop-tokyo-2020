@@ -2,12 +2,12 @@
 
 ## Location and dates
 
-* IFPU (Institute for Fondamental Physics of the Universe, https://www.ifpu.it), Trieste. More details will follow
-* From Wednesday November 20th to Friday November 22nd
+* Hongo Campus, The University of Tokyo
+* Tuesday January 21st and Wednesday January 22nd, 2020
 
 ## Registration
 
-Please fill in the [registration form](https://forms.gle/D65LxPaTjcYEQ6gs5) by November 6th; there is no registration fee.
+Please fill in the [registration form](https://forms.gle/79KY3Ndm433VVAzy8); there is no registration fee.
 
 ## NERSC account
 
@@ -25,17 +25,11 @@ If you get any error logging in, please email `consult@nersc.gov` with details a
 
 ## Preliminary agenda
 
-### Wednesday November 20th (afternoon only)
+### Tuesday January 21st
 
 Time | Event
 -----|--------
-13:00 | Arrive and Set Up
-13:30 | Meeting Overview
-13:45 | Introduction to TOAST
-14:45 | Simulated Scan Strategies
-15:45 | Coffee Break
-16:00 | Simulated Sky Signals
-17:00 | Hackathon Ideas and Discussion
+9:00 | Arrive and Set Up
 17:30 | End of Day 1
 
 ### Thursday November 21st
@@ -43,45 +37,12 @@ Time | Event
 Time | Event
 -----|--------
 09:00 | Arrive and Set Up
-09:15 | Simulated Instrument Signals
-10:30 | Coffee Break
-10:45 | Interfacing to Real Data
-11:45 | Lunch Break
-13:15 | Map Making
-14:30 | Coffee Break
-14:45 | Pipelines
-15:45 | Future Directions / Roadmap
-17:00 | Present Hacking notebook
 17:30 | End of Day 2
-
-### Friday November 22nd
-
-Time | Event
------|--------
-09:00 | Arrive and Set Up
-09:15 | Start Hacking!
-10:30 | Coffee Break
-10:45 | More Hacking
-12:00 | Lunch Break
-13:15 | More Hacking
-14:30 | Coffee Break
-14:45 | More Hacking
-15:30 | Close out
-16:00 | End of Day 3
 
 ## Organizers
 
-* Carlo Baccigalupi
 * Julian Borrill
 * Reijo Keskitalo
 * Ted Kisner
-* Nicoletta Krachmalnicoff
-* Maurizio Tomasi
 * Andrea Zonca
-
-## Acknowledgements
-
-![](https://www.esteri.it/logo-farnesina.gif)
-
-Funded by a grant from the Italian Ministry of Foreign Affairs and
-International Cooperation (MAE0066126, PI Maurizio Tomasi).
+* Yuji Chinone
