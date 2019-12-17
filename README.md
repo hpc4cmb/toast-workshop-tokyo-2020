@@ -1,4 +1,4 @@
-# TOAST workshop and hackathon at IFPU/SISSA Trieste (Italy)
+# TOAST workshop and hackathon at the University of Tokyo (Japan)
 
 ## Location and dates
 
