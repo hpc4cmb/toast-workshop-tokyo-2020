@@ -1,9 +1,11 @@
 # TOAST workshop and hackathon at the University of Tokyo (Japan)
 
-## Location and dates
+## Dates and location
 
-* Hongo Campus, The University of Tokyo
-* Tuesday January 21st and Wednesday January 22nd, 2020
+* Dates: Tuesday January 21st and Wednesday January 22nd, 2020
+* Location: Hongo Campus, The University of Tokyo
+   * __21st: Room 233, [School of Science Bldg. No.4](https://goo.gl/maps/siTA2eRhGSGVHbBb9)__
+   * __22nd: Room 1320, [School of Science Bldg. No.1](https://goo.gl/maps/BVQcDgPY9TtPmskL7)__
 
 ## Registration
 
