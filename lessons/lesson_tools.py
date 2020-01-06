@@ -51,49 +51,55 @@ def check_nersc(reservation=None, repo=None):
             print("Using default repo {}".format(nersc_repo))
         if reservation is not None:
             # We would like to use a reservation
-            checkres = sp.check_output(
-                "scontrol show reservation {}".format(reservation), 
-                shell=True,
-                universal_newlines=True
-            ).split()
-            # Does this reservation even exist?
-            if re.match(r".*not found.*", checkres[0]) is not None:
+            try:
+                checkres = sp.check_output(
+                    "scontrol show reservation {}".format(reservation), 
+                    shell=True,
+                    universal_newlines=True
+                ).split()
+                # Does this reservation even exist?
+                if re.match(r".*not found.*", checkres[0]) is not None:
+                    print(
+                        "Reservation '{}' does not exist or is expired".format(reservation)
+                    )
+                else:
+                    startiso = None
+                    stopiso = None
+                    fullres = " ".join(checkres)
+                    startmat = re.match(r".*StartTime=(\S*).*", fullres)
+                    stopmat = re.match(r".*EndTime=(\S*).*", fullres)
+                    if startmat is not None:
+                        startiso = startmat.group(1)
+                    if stopmat is not None:
+                        stopiso = stopmat.group(1)
+                    if (startiso is None) or (stopiso is None):
+                        print(
+                            "Could not parse scontrol output for reservation '{}'"
+                            .format(reservation)
+                        )
+                    else:
+                        from datetime import datetime
+                        start = datetime.strptime(startiso, "%Y-%m-%dT%H:%M:%S")
+                        stop = datetime.strptime(stopiso, "%Y-%m-%dT%H:%M:%S")
+                        now = datetime.now()
+                        print(
+                            "Reservation '{}' valid from {} to {}".format(
+                                reservation,
+                                start.isoformat(),
+                                stop.isoformat()
+                            )
+                        )
+                        print("Current time is {}".format(now.isoformat()))
+                        if (now >= start) and (now < stop):
+                            print("Selecting reservation '{}'".format(reservation))
+                            nersc_resv = reservation
+                        else:
+                            print("Reservation '{}' not currently valid".format(reservation))
+            except:
+                # This means the reservation does not exist
                 print(
                     "Reservation '{}' does not exist or is expired".format(reservation)
                 )
-            else:
-                startiso = None
-                stopiso = None
-                fullres = " ".join(checkres)
-                startmat = re.match(r".*StartTime=(\S*).*", fullres)
-                stopmat = re.match(r".*EndTime=(\S*).*", fullres)
-                if startmat is not None:
-                    startiso = startmat.group(1)
-                if stopmat is not None:
-                    stopiso = stopmat.group(1)
-                if (startiso is None) or (stopiso is None):
-                    print(
-                        "Could not parse scontrol output for reservation '{}'"
-                        .format(reservation)
-                    )
-                else:
-                    from datetime import datetime
-                    start = datetime.strptime(startiso, "%Y-%m-%dT%H:%M:%S")
-                    stop = datetime.strptime(stopiso, "%Y-%m-%dT%H:%M:%S")
-                    now = datetime.now()
-                    print(
-                        "Reservation '{}' valid from {} to {}".format(
-                            reservation,
-                            start.isoformat(),
-                            stop.isoformat()
-                        )
-                    )
-                    print("Current time is {}".format(now.isoformat()))
-                    if (now >= start) and (now < stop):
-                        print("Selecting reservation '{}'".format(reservation))
-                        nersc_resv = reservation
-                    else:
-                        print("Reservation '{}' not currently valid".format(reservation))
     else:
         print("Not running at NERSC, slurm jobs disabled.")
     return (nersc_host, nersc_repo, nersc_resv)
