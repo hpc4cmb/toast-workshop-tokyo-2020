@@ -116,3 +116,8 @@ lessons/*/*schedule*.txt
 lessons/*/toast_conviqt_sim.py
 lessons/*/bin_schedule.par
 lessons/*/patches.png
+lessons/07_Pipelines/filtered.npy
+lessons/07_Pipelines/my_first_pipeline.py
+lessons/07_Pipelines/noise.npy
+lessons/07_Pipelines/toast_ground_sim*
+lessons/07_Pipelines/toast_satellite_sim*
