@@ -102,3 +102,17 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Lesson outputs
+lessons/*/focalplane*
+lessons/*/atm_cache*
+lessons/*/out*
+lessons/*/maps*
+lessons/*/simscan_satellite*
+lessons/*/toast_test_output
+lessons/*/*.fits
+lessons/*/kolmogorov.txt
+lessons/*/*schedule*.txt
+lessons/*/toast_conviqt_sim.py
+lessons/*/bin_schedule.par
+lessons/*/patches.png
