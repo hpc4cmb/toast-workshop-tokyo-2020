@@ -42,6 +42,7 @@ Time | Event
 16:00 | Pipelines
 17:00 | Local Installation
 18:00 | End of Day 1
+18:30 | Social dinner
 
 ### Thursday November 21st
 
@@ -55,6 +56,10 @@ Time | Event
 15:00 | Coffee Break
 15:30 | Continue Hacking
 18:00 | End of Day 2
+
+### Social Dinner
+
+Social dinner will take place on Tuesday Jan. 21st at 6:30PM at [the RESTAURANT ABREUVOIR](http://www.mukougaoka-facultyhouse.jp/restaurant.html), located in the [Mukougaoka Faculty House](https://goo.gl/maps/kV3HFSjcRa7F71c87).
 
 ## Organizers
 
