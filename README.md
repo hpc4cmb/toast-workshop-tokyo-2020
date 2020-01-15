@@ -61,6 +61,10 @@ Time | Event
 
 Social dinner will take place on Tuesday Jan. 21st at 6:30PM at [the RESTAURANT ABREUVOIR](http://www.mukougaoka-facultyhouse.jp/restaurant.html), located in the [Mukougaoka Faculty House](https://goo.gl/maps/kV3HFSjcRa7F71c87).
 
+## Code of Conduct
+
+Code of conduct for reseach at the Universtiy of Tokyo ([pdf](https://www.u-tokyo.ac.jp/content/400030733.pdf))
+
 ## Organizers
 
 * Julian Borrill
