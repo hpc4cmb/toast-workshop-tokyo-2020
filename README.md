@@ -31,15 +31,30 @@ If you get any error logging in, please email `consult@nersc.gov` with details a
 
 Time | Event
 -----|--------
-9:00 | Arrive and Set Up
-17:30 | End of Day 1
+10:00 | Arrive and Set Up
+10:15 | Introduction
+10:45 | Simulated Scan Strategies
+11:45 | Simulated Sky Signals
+12:30 | Lunch
+13:30 | Simulated Instrument Signals
+14:30 | Map Making
+15:30 | Coffee Break
+16:00 | Pipelines
+17:00 | Local Installation
+18:00 | End of Day 1
 
 ### Thursday November 21st
 
 Time | Event
 -----|--------
-09:00 | Arrive and Set Up
-17:30 | End of Day 2
+10:00 | Arrive and Set Up
+10:15 | Introduction to Hackathon
+10:45 | Start Hacking!
+12:30 | Lunch
+13:30 | Continue Hacking
+15:00 | Coffee Break
+15:30 | Continue Hacking
+18:00 | End of Day 2
 
 ## Organizers
 
