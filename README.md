@@ -1,5 +1,10 @@
 # TOAST workshop and hackathon at the University of Tokyo (Japan)
 
+## Previous workshops
+
+* [TOAST workshop and hackathon at UC San Diego](https://github.com/hpc4cmb/toast-workshop-ucsd-2019)
+* [TOAST workshop and hackathon at IFPU/SISSA Trieste](https://github.com/hpc4cmb/toast-workshop-trieste-2019)
+
 ## Dates and location
 
 * Dates: Tuesday January 21st and Wednesday January 22nd, 2020
@@ -10,6 +15,21 @@
 ## Registration
 
 Please fill in the [registration form](https://forms.gle/79KY3Ndm433VVAzy8); there is no registration fee.
+
+## Attend remotely via Zoom
+
+Zoom meeting: https://zoom.us/j/374133411
+
+* Meeting ID: 374 133 411
+* ワンタップモバイル機器
+   * +81524564439,,374133411# 日本
+   * +81345781488,,374133411# 日本
+* 所在地でダイアル
+   * +81 524 564 439 日本
+   * +81 3 4578 1488 日本
+   * +1 669 900 9128 アメリカ合衆国 (サンノゼ)
+   * +1 646 558 8656 アメリカ合衆国 (ニューヨーク)
+* 市内番号を検索: https://zoom.us/u/a7P1DgiO1
 
 ## NERSC account
 
