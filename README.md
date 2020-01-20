@@ -31,6 +31,11 @@ Zoom meeting: https://zoom.us/j/374133411
    * +1 646 558 8656 アメリカ合衆国 (ニューヨーク)
 * 市内番号を検索: https://zoom.us/u/a7P1DgiO1
 
+## WiFi
+
+[eduroam is available at the campus](https://www.u-tokyo.ac.jp/adm/dics/ja/wlan.html) and we highlly recommend all of you to prepare your account prior to visit. FYI: "UTokyo-Guest" provided by Softbank is available without any prior registration. However, we have not validated that it's fine with NERSC. Please check [this PDF](https://www.u-tokyo.ac.jp/content/400073350.pdf) if you want to use it (but it's not recommended).
+
+
 ## NERSC account
 
 Every attendee will need a NERSC account, if you do not have one please sign up at <https://nim.nersc.gov/nersc_account_request.php>
@@ -80,6 +85,12 @@ Time | Event
 ### Social Dinner
 
 Social dinner will take place on Tuesday Jan. 21st at 6:30PM at [the RESTAURANT ABREUVOIR](http://www.mukougaoka-facultyhouse.jp/restaurant.html), located in the [Mukougaoka Faculty House](https://goo.gl/maps/kV3HFSjcRa7F71c87).
+
+
+## Lunch
+
+We will not prepare any lunch. You can go to one of two cafeterias (第二 or 中央食堂) and buy a lunch box @ [ネオポンテ](https://www.w-tokyodo.com/neoponte/neoponte_tokyo/).
+
 
 ## Code of Conduct
 
