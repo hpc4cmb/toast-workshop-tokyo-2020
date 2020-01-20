@@ -9,7 +9,7 @@
 
 * Dates: Tuesday January 21st and Wednesday January 22nd, 2020
 * Location: Hongo Campus, The University of Tokyo
-   * __21st: Room 233, [School of Science Bldg. No.1](https://goo.gl/maps/BVQcDgPY9TtPmskL7)__
+   * __21st: Room 233, [School of Science Bldg. No.1](https://goo.gl/maps/BVQcDgPY9TtPmskL7)__<br><img src="https://lh3.googleusercontent.com/2qf35etTKJi6OFFhU3WuokfoQdu6f1uQvCgmTeQndt29QrSUHTOo6iHW-3FWgThDv5hcKKDZm5cCOyiWEX4c8h7s5QSipOByp6V1QG7Cy9Nyyrl8q7oYBwhojXAbagdgpOt1O4V7PAdwpXObenTkCIuIgpZ_Jr3oi3KNMd97K7ahi9V6woziM0vNBHZrwC6tH88QYjJRR1vrH7jqRGBNzdXiTSQTSjXmV0YTvVndsUdkTaJzO06XRmPERXwD4xdgn8W-0QetsoAgM_WbdGwMqLjM3rJ4OwAtB2988FIl-kXc-UnUCwD4pVCiFduSvoIgBFCkyIVIV-fW9WzwKCd_b4BoEXGYCVG2Rs8ZSbGC_19iqvJwjZLZnSUAjVxNkQzMIsbcOUKWDfjVtjN2qQZ-O-tL7GclfQqEfetSVgkdU9bJFySwytq6MCBvX842KODEHKm-mlj91By1gvQoYsrp3E2j0z4Vsf0TRpNVqgrG0i6DjhgyT-HQOGkxME29x8lhxIMI7sdavYQZuxw4-E3EIYQWUuw20YGebjLxa2yxJhySKFMhDrSw_fcwnhzy0J8J3osNarLOYr9zYw_GpDmWKBj58fqCnyjMqwgmCdp9CDunvNuNMfJSW8GIaRrCIF0SuKWPSp_0X6yaeoQIxc28wDdtQkfd2XbTnEowRlFE5R7sFDZEAM7ZQ_MS=w640-no-tmp.jpg">   
    * __22nd: Room 1320, [School of Science Bldg. No.4](https://goo.gl/maps/siTA2eRhGSGVHbBb9)__
 
 ## Registration
