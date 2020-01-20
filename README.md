@@ -69,7 +69,7 @@ Time | Event
 18:00 | End of Day 1
 18:30 | Social dinner
 
-### Thursday November 21st
+### Wednesday January 22nd
 
 Time | Event
 -----|--------
