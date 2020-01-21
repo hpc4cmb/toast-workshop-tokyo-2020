@@ -91,6 +91,10 @@ Social dinner will take place on Tuesday Jan. 21st at 6:30PM at [the RESTAURANT 
 
 We will not prepare any lunch. You can go to one of two cafeterias (第二 or 中央食堂) and buy a lunch box @ [ネオポンテ](https://www.w-tokyodo.com/neoponte/neoponte_tokyo/).
 
+## Hackathon projects
+
+Click [here](https://docs.google.com/document/d/1RDagAliguIcOjZ_cYsQuKVSmlVDpdRp5GjS_MNl26IE/edit?usp=sharing) for the Google documents with hackathon ideas. Add your own or add your name to indicate interest.
+
 
 ## Code of Conduct
 
