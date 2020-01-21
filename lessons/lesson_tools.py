@@ -30,25 +30,26 @@ def check_nersc(reservation=None, repo=None):
         # Be kind to the login node
         os.environ["OMP_NUM_THREADS"] = "4"
         import subprocess as sp
-        repos = sp.check_output(
-            "getnim -U $(whoami) | awk '{print $1}'", 
-            shell=True,
-            universal_newlines=True
-        ).split()
-        print(
-            "Running on NERSC machine '{}'\n  with access to repos: {}".format(
-                nersc_host, ", ".join(repos)
-            )
-        )
-        if repo is not None:
-            if repo in repos:
-                nersc_repo = repo
-                print("Using requested repo {}".format(repo))
-            else:
-                print("Requested repo {} not in list of enabled repos".format(repo))
-        if nersc_repo is None:
-            nersc_repo = repos[0]
-            print("Using default repo {}".format(nersc_repo))
+#         repos = sp.check_output(
+#             "getnim -U $(whoami) | awk '{print $1}'", 
+#             shell=True,
+#             universal_newlines=True
+#         ).split()
+#         print(
+#             "Running on NERSC machine '{}'\n  with access to repos: {}".format(
+#                 nersc_host, ", ".join(repos)
+#             )
+#         )
+#         if repo is not None:
+#             if repo in repos:
+#                 nersc_repo = repo
+#                 print("Using requested repo {}".format(repo))
+#             else:
+#                 print("Requested repo {} not in list of enabled repos".format(repo))
+#         if nersc_repo is None:
+#             nersc_repo = repos[0]
+#             print("Using default repo {}".format(nersc_repo))
+        nersc_repo = "mp107"
         if reservation is not None:
             # We would like to use a reservation
             try:
