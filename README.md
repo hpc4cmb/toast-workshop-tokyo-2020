@@ -5,10 +5,6 @@
 * [TOAST workshop and hackathon at UC San Diego](https://github.com/hpc4cmb/toast-workshop-ucsd-2019)
 * [TOAST workshop and hackathon at IFPU/SISSA Trieste](https://github.com/hpc4cmb/toast-workshop-trieste-2019)
 
-## Zoom Records
-
-* 21st: [morning](https://zoom.us/rec/share/1e94D5Cp3U9LRavt13zmV7d6IrzHT6a8g3RP__JfyB2EF5HBWSQ2llPAY9umMOzk?startTime=1579570178000) and [afternoon](https://zoom.us/rec/share/1e94D5Cp3U9LRavt13zmV7d6IrzHT6a8g3RP__JfyB2EF5HBWSQ2llPAY9umMOzk?startTime=1579578371000)
-
 ## Dates and location
 
 * Dates: Tuesday January 21st and Wednesday January 22nd, 2020
